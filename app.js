@@ -43,6 +43,6 @@ function sortearAmigo() {
 
 function limparLista() {
     lista = [];
-    document.querySelector('#listaAmigos').innerHTML = ""; L
+    document.querySelector('#listaAmigos').innerHTML = ""; 
 
 }
